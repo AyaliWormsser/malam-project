@@ -1,0 +1,32 @@
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Service.deps.json
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Service.dll
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Service.pdb
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Core.dll
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Core.pdb
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.csproj.AssemblyReference.cache
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.AssemblyInfoInputs.cache
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.AssemblyInfo.cs
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.csproj.CoreCompileInputs.cache
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.sourcelink.json
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.csproj.CopyComplete
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.dll
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\refint\HoursReport.Service.dll
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.pdb
+C:\אילי\מל''מ\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\ref\HoursReport.Service.dll
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Service.deps.json
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Service.dll
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Service.pdb
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Core.dll
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\bin\Debug\net8.0\HoursReport.Core.pdb
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.sourcelink.json
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.dll
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\refint\HoursReport.Service.dll
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\HoursReport.Service.pdb
+C:\Users\user1\Desktop\מבחן מלם\server\HoursReport\HoursReport.Service\obj\Debug\net8.0\ref\HoursReport.Service.dll
